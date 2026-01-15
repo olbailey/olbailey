@@ -7,7 +7,7 @@
 <h3>- 🔭 I’m currently working on</h3>
 <ul>
   <li>A Chess program <a href="https://github.com/OliverB-963/Chess-Game-Cpp.git" target="_blank">found here</a></li>
-  <li>A Neural Network <a href="https://github.com/OliverB-963/Neural-Network.git" target="_blank">found here</a></li>
+  <li>A Python Neural Network made from scratch with numpy <a href="https://github.com/olbailey/Python-Neural-Network" target="_blank">found here</a></li>
 </ul>
 
 <h3>-🌱 I’m currently learning</h3>
