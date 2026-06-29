@@ -16,6 +16,14 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
 </p>
 
+<h3>AI Star Arena </h3>
+<p>
+  In AI Star Arena, you program a script to control a spaceship. How well your ship does depends on how well you can program. <br>
+  This game provides the perfect opportunity to test, learn, and develop your Python programming skills in an interesting and possibly competitive environment. <br>
+  This game was developed as a university group project alongside six other teammates. <br>
+  <a href="https://olbailey.itch.io/ai-star-arena" target="_blank"> Website can be found here </a> 
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:olbailey@outlook.com">olbailey@outlook.com</a><br>
