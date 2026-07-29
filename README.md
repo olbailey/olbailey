@@ -8,6 +8,7 @@
 <ul>
   <li>A Chess program <a href="https://github.com/OliverB-963/Chess-Game-Cpp.git" target="_blank">found here</a></li>
   <li>A time series forecasting model <a href="https://github.com/olbailey/household-electricity-demand-forecasting" target="_blank">found here</a></li>
+  <li>A MRI diagnosis model <a href="https://github.com/olbailey/cardiac-mri-diagnosis" target="_blank">found here</a></li>
 </ul>
 
 <h3>-🌱 I’m currently learning</h3>
