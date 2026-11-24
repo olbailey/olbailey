@@ -6,7 +6,7 @@
 
 <h3>- 🔭 I’m currently working on</h3>
 <ul>
-  <li>A MRI diagnosis model <a href="https://github.com/olbailey/cardiac-mri-diagnosis" target="_blank">found here</a></li>
+  <li>A MRI diagnosis machine learning pipeline <a href="https://github.com/olbailey/cardiac-mri-diagnosis" target="_blank">found here</a></li>
   <li>A Chess program <a href="https://github.com/OliverB-963/Chess-Game-Cpp.git" target="_blank">found here</a></li>
 </ul>
 
